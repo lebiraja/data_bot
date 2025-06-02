@@ -1,0 +1,1093 @@
+Sales Person,Country,Product,Date,Amount,Boxes Shipped
+Jehu Rudeforth,UK,Mint Chip Choco,30-Jun-22,"$5,320 ",unknown
+Beverie Moffet,India,85% Dark Bars,01-Aug-22,error_value,94.0
+Gigi Bohling,InvalidCountry,Peanut Butter Cubes,07-Jul-22,error_value,unknown
+Jan Morforth,Australia,Peanut Butter Cubes,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Peanut Butter Cubes,24-Feb-22,error_value,unknown
+Van Tuxwell,InvalidCountry,Smooth Sliky Salty,06-Jun-22,"$5,376 ",unknown
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,"$13,685 ",176.0
+Gunar Cockshoot,Australia,After Nines,30-Jun-22,"$3,080 ",unknown
+Jehu Rudeforth,InvalidCountry,50% Dark Bites,20-Apr-22,"$3,990 ",unknown
+Brien Boise,InvalidCountry,99% Dark & Pure,30-Jun-22,error_value,unknown
+Rafaelita Blaksland,UK,Smooth Sliky Salty,30-Jun-22,error_value,62.0
+Barr Faughny,USA,Orange Choco,10-Mar-22,"$3,703 ",unknown
+Mallorie Waber,Canada,Smooth Sliky Salty,13-Jan-22,error_value,286.0
+Karlen McCaffrey,InvalidCountry,Drinking Coco,30-Jun-22,$168 ,unknown
+Marney O'Breen,New Zealand,Smooth Sliky Salty,30-Jun-22,error_value,173.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,26-Jan-22,error_value,356.0
+Beverie Moffet,Canada,Organic Choco Syrup,30-Jun-22,error_value,42.0
+Beverie Moffet,USA,Smooth Sliky Salty,30-Jun-22,"$3,017 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$8,799 ",250.0
+Curtice Advani,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$1,085 ",172.0
+Brien Boise,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$6,888 ",88.0
+Gunar Cockshoot,USA,Spicy Special Slims,30-Jun-22,"$1,267 ",157.0
+Marney O'Breen,InvalidCountry,Smooth Sliky Salty,30-May-22,error_value,163.0
+Husein Augar,UK,Smooth Sliky Salty,14-Mar-22,"$3,003 ",113.0
+Beverie Moffet,Australia,Smooth Sliky Salty,28-Feb-22,"$7,672 ",115.0
+Karlen McCaffrey,InvalidCountry,Smooth Sliky Salty,30-Jun-22,$168 ,321.0
+Roddy Speechley,InvalidCountry,Smooth Sliky Salty,09-Feb-22,"$1,652 ",unknown
+Husein Augar,InvalidCountry,Eclairs,30-Jun-22,error_value,112.0
+Dennison Crosswaite,New Zealand,White Choc,05-Jul-22,error_value,151.0
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,15-Jun-22,"$5,061 ",unknown
+Van Tuxwell,New Zealand,85% Dark Bars,24-May-22,error_value,unknown
+Rafaelita Blaksland,UK,Smooth Sliky Salty,29-Jun-22,"$12,446 ",unknown
+Wilone O'Kielt,InvalidCountry,Manuka Honey Choco,11-May-22,"$4,284 ",94.0
+Karlen McCaffrey,UK,Smooth Sliky Salty,30-Jun-22,error_value,133.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,163 ",70.0
+Beverie Moffet,USA,Smooth Sliky Salty,30-Jun-22,"$9,583 ",315.0
+Andria Kimpton,UK,50% Dark Bites,24-Aug-22,"$2,653 ",unknown
+Kelci Walkden,New Zealand,After Nines,07-Jul-22,error_value,72.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,19-May-22,error_value,14.0
+Karlen McCaffrey,India,Manuka Honey Choco,30-Jun-22,error_value,unknown
+Kelci Walkden,InvalidCountry,After Nines,30-Jun-22,error_value,16.0
+Karlen McCaffrey,InvalidCountry,Raspberry Choco,15-Apr-22,"$14,749 ",354.0
+Mallorie Waber,InvalidCountry,Choco Coated Almonds,30-Jun-22,"$4,781 ",unknown
+Andria Kimpton,India,Smooth Sliky Salty,30-Jun-22,"$6,307 ",142.0
+Madelene Upcott,InvalidCountry,Almond Choco,22-Aug-22,"$7,602 ",unknown
+Kaine Padly,InvalidCountry,Smooth Sliky Salty,16-Feb-22,error_value,unknown
+Van Tuxwell,USA,Smooth Sliky Salty,13-Jan-22,error_value,unknown
+Beverie Moffet,Australia,Smooth Sliky Salty,30-Jun-22,"$6,979 ",18.0
+Roddy Speechley,India,Eclairs,10-Jun-22,"$4,382 ",303.0
+Curtice Advani,InvalidCountry,Fruit & Nut Bars,07-Jul-22,"$5,243 ",176.0
+Curtice Advani,Canada,Smooth Sliky Salty,24-Mar-22,error_value,unknown
+Beverie Moffet,Australia,Smooth Sliky Salty,30-Jun-22,"$8,575 ",23.0
+Dotty Strutley,Australia,Drinking Coco,19-Jul-22,error_value,135.0
+Beverie Moffet,InvalidCountry,Raspberry Choco,30-Jun-22,error_value,83.0
+Marney O'Breen,InvalidCountry,85% Dark Bars,19-Jul-22,error_value,unknown
+Jehu Rudeforth,Canada,Drinking Coco,15-Jul-22,$441 ,24.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,14-Feb-22,"$3,556 ",unknown
+Brien Boise,InvalidCountry,99% Dark & Pure,18-May-22,"$16,793 ",416.0
+Barr Faughny,InvalidCountry,Fruit & Nut Bars,30-Jun-22,"$15,421 ",unknown
+Beverie Moffet,InvalidCountry,50% Dark Bites,02-Jun-22,"$4,438 ",unknown
+Andria Kimpton,InvalidCountry,Drinking Coco,28-Jun-22,error_value,48.0
+Marney O'Breen,InvalidCountry,Smooth Sliky Salty,16-May-22,$273 ,174.0
+Beverie Moffet,InvalidCountry,Baker's Choco Chips,26-May-22,error_value,302.0
+Beverie Moffet,InvalidCountry,Almond Choco,30-Jun-22,"$6,090 ",149.0
+Beverie Moffet,India,Smooth Sliky Salty,27-May-22,"$10,255 ",unknown
+Wilone O'Kielt,InvalidCountry,Caramel Stuffed Bars,30-Jun-22,error_value,unknown
+Van Tuxwell,Australia,Organic Choco Syrup,10-Aug-22,"$19,453 ",unknown
+Camilla Castle,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,411.0
+Oby Sorrel,India,Organic Choco Syrup,30-Jun-22,"$6,181 ",unknown
+Beverie Moffet,InvalidCountry,Peanut Butter Cubes,22-Jul-22,error_value,102.0
+Gigi Bohling,USA,Choco Coated Almonds,02-Mar-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Almond Choco,30-Jun-22,"$5,642 ",9.0
+Jehu Rudeforth,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,800 ",241.0
+Andria Kimpton,New Zealand,Peanut Butter Cubes,20-Jun-22,error_value,265.0
+Van Tuxwell,UK,Organic Choco Syrup,26-Aug-22,"$2,002 ",214.0
+Roddy Speechley,Canada,Milk Bars,30-Jun-22,error_value,unknown
+Camilla Castle,InvalidCountry,Spicy Special Slims,11-Feb-22,"$1,274 ",244.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Van Tuxwell,InvalidCountry,99% Dark & Pure,31-Jan-22,"$4,725 ",137.0
+Camilla Castle,InvalidCountry,White Choc,18-Aug-22,"$9,681 ",24.0
+Beverie Moffet,InvalidCountry,Raspberry Choco,30-Jun-22,"$14,504 ",unknown
+Dotty Strutley,Australia,Fruit & Nut Bars,23-Aug-22,error_value,unknown
+Brien Boise,New Zealand,Mint Chip Choco,01-Aug-22,$63 ,181.0
+Beverie Moffet,InvalidCountry,After Nines,30-Jun-22,"$8,001 ",unknown
+Roddy Speechley,InvalidCountry,Smooth Sliky Salty,10-Jan-22,error_value,82.0
+Beverie Moffet,InvalidCountry,70% Dark Bites,07-Feb-22,error_value,unknown
+Beverie Moffet,USA,Smooth Sliky Salty,12-May-22,error_value,401.0
+Madelene Upcott,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Dennison Crosswaite,Australia,Smooth Sliky Salty,30-Jun-22,error_value,420.0
+Andria Kimpton,Canada,Smooth Sliky Salty,03-Jan-22,"$7,154 ",unknown
+Dennison Crosswaite,UK,Eclairs,24-Mar-22,error_value,unknown
+Madelene Upcott,India,Raspberry Choco,07-Jul-22,error_value,unknown
+Beverie Moffet,USA,Smooth Sliky Salty,26-Jul-22,error_value,unknown
+Wilone O'Kielt,InvalidCountry,Organic Choco Syrup,07-Jul-22,error_value,111.0
+Karlen McCaffrey,Canada,50% Dark Bites,15-Jul-22,error_value,65.0
+Roddy Speechley,InvalidCountry,Smooth Sliky Salty,01-Apr-22,error_value,97.0
+Beverie Moffet,Australia,Eclairs,20-Jun-22,error_value,6.0
+Beverie Moffet,UK,Smooth Sliky Salty,29-Jun-22,error_value,482.0
+Marney O'Breen,USA,50% Dark Bites,15-Jun-22,"$1,064 ",106.0
+Beverie Moffet,USA,After Nines,08-Apr-22,"$11,571 ",unknown
+Beverie Moffet,Australia,Raspberry Choco,30-Jun-22,"$5,740 ",unknown
+Andria Kimpton,InvalidCountry,Fruit & Nut Bars,15-Jul-22,"$1,456 ",unknown
+Kelci Walkden,InvalidCountry,Eclairs,19-Apr-22,error_value,80.0
+Marney O'Breen,InvalidCountry,Smooth Sliky Salty,28-Mar-22,"$4,151 ",unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Karlen McCaffrey,InvalidCountry,Smooth Sliky Salty,02-Aug-22,error_value,unknown
+Husein Augar,UK,Spicy Special Slims,25-Aug-22,error_value,unknown
+Marney O'Breen,USA,Almond Choco,30-Jun-22,error_value,unknown
+Kelci Walkden,India,Orange Choco,30-Jun-22,"$9,408 ",138.0
+Jan Morforth,India,Smooth Sliky Salty,30-Jun-22,"$1,939 ",unknown
+Ches Bonnell,India,Spicy Special Slims,30-Jun-22,"$10,906 ",94.0
+Kelci Walkden,UK,Smooth Sliky Salty,30-Jun-22,"$5,929 ",unknown
+Madelene Upcott,InvalidCountry,Fruit & Nut Bars,05-Jan-22,"$5,579 ",unknown
+Madelene Upcott,InvalidCountry,70% Dark Bites,24-Jan-22,error_value,unknown
+Wilone O'Kielt,Australia,Smooth Sliky Salty,06-Apr-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,28-Jan-22,"$1,505 ",unknown
+Kelci Walkden,InvalidCountry,Caramel Stuffed Bars,30-Jun-22,error_value,unknown
+Beverie Moffet,Australia,Drinking Coco,21-Feb-22,"$11,550 ",396.0
+Kelci Walkden,InvalidCountry,Manuka Honey Choco,30-Jun-22,"$17,318 ",unknown
+Jehu Rudeforth,Canada,Spicy Special Slims,13-Jan-22,"$1,848 ",27.0
+Kelci Walkden,Australia,Smooth Sliky Salty,30-Jun-22,"$7,273 ",547.0
+Curtice Advani,InvalidCountry,Smooth Sliky Salty,16-Jun-22,error_value,118.0
+Beverie Moffet,InvalidCountry,Raspberry Choco,14-Apr-22,"$6,832 ",46.0
+Kelci Walkden,UK,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Jan Morforth,India,Smooth Sliky Salty,11-Mar-22,"$4,466 ",unknown
+Dotty Strutley,UK,Smooth Sliky Salty,28-Jul-22,"$16,114 ",96.0
+Marney O'Breen,InvalidCountry,After Nines,30-Jun-22,error_value,44.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,28-Jun-22,"$8,897 ",188.0
+Marney O'Breen,Australia,Milk Bars,30-Jun-22,"$2,464 ",387.0
+Kelci Walkden,InvalidCountry,99% Dark & Pure,15-Aug-22,"$4,830 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,765 ",unknown
+Beverie Moffet,New Zealand,Smooth Sliky Salty,24-Mar-22,error_value,7.0
+Beverie Moffet,UK,Smooth Sliky Salty,25-Jul-22,error_value,90.0
+Beverie Moffet,Canada,99% Dark & Pure,30-Jun-22,"$3,605 ",unknown
+Van Tuxwell,InvalidCountry,Organic Choco Syrup,16-May-22,error_value,174.0
+Roddy Speechley,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Jan Morforth,InvalidCountry,Eclairs,05-Jan-22,error_value,27.0
+Ches Bonnell,UK,Smooth Sliky Salty,11-Jul-22,"$5,663 ",110.0
+Beverie Moffet,InvalidCountry,After Nines,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,04-Apr-22,error_value,121.0
+Barr Faughny,InvalidCountry,Raspberry Choco,12-Apr-22,"$9,282 ",unknown
+Beverie Moffet,InvalidCountry,85% Dark Bars,02-Aug-22,error_value,117.0
+Beverie Moffet,New Zealand,Manuka Honey Choco,28-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Eclairs,05-Jul-22,"$4,116 ",128.0
+Rafaelita Blaksland,InvalidCountry,Choco Coated Almonds,07-Jun-22,"$2,093 ",45.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,18-Jan-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Baker's Choco Chips,30-Jun-22,error_value,212.0
+Dennison Crosswaite,InvalidCountry,99% Dark & Pure,31-Jan-22,error_value,18.0
+Kelci Walkden,InvalidCountry,Almond Choco,30-Jun-22,"$3,297 ",149.0
+Beverie Moffet,Australia,70% Dark Bites,30-Jun-22,"$6,048 ",477.0
+Beverie Moffet,India,Smooth Sliky Salty,07-Feb-22,"$10,101 ",108.0
+Beverie Moffet,InvalidCountry,Organic Choco Syrup,30-Jun-22,"$2,282 ",unknown
+Marney O'Breen,InvalidCountry,Caramel Stuffed Bars,30-Jun-22,error_value,81.0
+Beverie Moffet,UK,Eclairs,25-Jan-22,error_value,unknown
+Van Tuxwell,India,Baker's Choco Chips,30-Jun-22,error_value,447.0
+Beverie Moffet,UK,After Nines,30-Jun-22,"$8,029 ",unknown
+Curtice Advani,Australia,Smooth Sliky Salty,12-Jul-22,$854 ,unknown
+Jehu Rudeforth,Canada,Smooth Sliky Salty,11-Jul-22,error_value,unknown
+Karlen McCaffrey,Canada,Smooth Sliky Salty,19-Jan-22,"$3,017 ",unknown
+Andria Kimpton,InvalidCountry,Smooth Sliky Salty,05-Apr-22,"$8,911 ",82.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$7,203 ",12.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,20-May-22,"$13,083 ",14.0
+Beverie Moffet,Australia,Smooth Sliky Salty,30-Jun-22,error_value,104.0
+Barr Faughny,USA,Fruit & Nut Bars,28-Jan-22,"$9,058 ",46.0
+Beverie Moffet,InvalidCountry,Caramel Stuffed Bars,19-Jul-22,"$3,549 ",112.0
+Beverie Moffet,New Zealand,Manuka Honey Choco,30-Jun-22,"$9,436 ",unknown
+Beverie Moffet,InvalidCountry,Peanut Butter Cubes,30-Jun-22,error_value,21.0
+Roddy Speechley,InvalidCountry,Smooth Sliky Salty,02-Mar-22,error_value,unknown
+Ches Bonnell,Australia,White Choc,02-Mar-22,error_value,202.0
+Van Tuxwell,InvalidCountry,99% Dark & Pure,30-Jun-22,"$12,586 ",6.0
+Kelci Walkden,India,Smooth Sliky Salty,07-Jan-22,"$1,687 ",unknown
+Brien Boise,UK,Smooth Sliky Salty,12-Apr-22,"$5,299 ",167.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,27-Jun-22,error_value,unknown
+Jehu Rudeforth,InvalidCountry,Smooth Sliky Salty,14-Jan-22,error_value,unknown
+Karlen McCaffrey,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,389.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$13,706 ",unknown
+Marney O'Breen,India,Peanut Butter Cubes,10-Jan-22,error_value,unknown
+Oby Sorrel,InvalidCountry,Smooth Sliky Salty,17-Mar-22,error_value,unknown
+Gigi Bohling,USA,Spicy Special Slims,21-Jan-22,"$10,829 ",54.0
+Barr Faughny,InvalidCountry,White Choc,04-Jul-22,error_value,370.0
+Beverie Moffet,Canada,Peanut Butter Cubes,30-Jun-22,"$3,269 ",unknown
+Dotty Strutley,InvalidCountry,Smooth Sliky Salty,30-Jun-22,$273 ,unknown
+Dennison Crosswaite,Australia,Smooth Sliky Salty,01-Apr-22,error_value,12.0
+Beverie Moffet,India,Raspberry Choco,22-Feb-22,error_value,159.0
+Camilla Castle,InvalidCountry,White Choc,30-Jun-22,"$9,982 ",187.0
+Karlen McCaffrey,InvalidCountry,Smooth Sliky Salty,31-May-22,error_value,unknown
+Beverie Moffet,InvalidCountry,99% Dark & Pure,03-Jan-22,error_value,282.0
+Husein Augar,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,475.0
+Beverie Moffet,InvalidCountry,50% Dark Bites,28-Jan-22,error_value,65.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,311.0
+Husein Augar,UK,Choco Coated Almonds,02-Mar-22,error_value,43.0
+Beverie Moffet,Australia,After Nines,30-Jun-22,error_value,unknown
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,84.0
+Beverie Moffet,Canada,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,12-May-22,"$4,018 ",100.0
+Barr Faughny,InvalidCountry,Raspberry Choco,29-Jul-22,"$6,468 ",66.0
+Dennison Crosswaite,UK,White Choc,30-Jun-22,error_value,265.0
+Barr Faughny,India,Baker's Choco Chips,30-Jun-22,"$6,454 ",141.0
+Van Tuxwell,New Zealand,Smooth Sliky Salty,14-Jun-22,error_value,42.0
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,"$6,475 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,13-Jun-22,"$1,162 ",unknown
+Ches Bonnell,InvalidCountry,Orange Choco,27-Apr-22,"$14,238 ",54.0
+Jan Morforth,InvalidCountry,White Choc,30-Jun-22,error_value,unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,20-Apr-22,"$1,428 ",unknown
+Rafaelita Blaksland,India,Smooth Sliky Salty,04-Jan-22,"$8,064 ",134.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,92.0
+Beverie Moffet,Australia,White Choc,05-Jan-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$6,055 ",46.0
+Brien Boise,InvalidCountry,Choco Coated Almonds,30-Jun-22,"$5,124 ",62.0
+Beverie Moffet,InvalidCountry,Eclairs,20-Apr-22,"$3,479 ",358.0
+Gigi Bohling,USA,Smooth Sliky Salty,30-Jun-22,$784 ,249.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,13-May-22,error_value,88.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Milk Bars,30-Jun-22,$735 ,unknown
+Beverie Moffet,UK,Raspberry Choco,30-Jun-22,"$6,538 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,04-Jul-22,"$3,199 ",unknown
+Jehu Rudeforth,India,Smooth Sliky Salty,05-Jul-22,"$3,472 ",135.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,15-Mar-22,"$4,571 ",unknown
+Beverie Moffet,InvalidCountry,Raspberry Choco,30-Jun-22,error_value,69.0
+Ches Bonnell,Australia,Smooth Sliky Salty,12-Jan-22,"$3,136 ",unknown
+Beverie Moffet,UK,Baker's Choco Chips,10-Jun-22,error_value,154.0
+Beverie Moffet,Australia,Smooth Sliky Salty,25-Mar-22,"$5,460 ",unknown
+Rafaelita Blaksland,India,Almond Choco,30-Jun-22,"$3,395 ",99.0
+Husein Augar,InvalidCountry,Caramel Stuffed Bars,15-Apr-22,"$14,938 ",unknown
+Roddy Speechley,India,Smooth Sliky Salty,27-Jun-22,"$4,053 ",unknown
+Beverie Moffet,UK,70% Dark Bites,14-Apr-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Manuka Honey Choco,15-Mar-22,"$7,161 ",unknown
+Beverie Moffet,InvalidCountry,Eclairs,18-Mar-22,"$8,883 ",200.0
+Brien Boise,InvalidCountry,Eclairs,29-Apr-22,error_value,61.0
+Mallorie Waber,InvalidCountry,Smooth Sliky Salty,25-Feb-22,error_value,246.0
+Husein Augar,USA,Milk Bars,02-Mar-22,$854 ,56.0
+Van Tuxwell,InvalidCountry,Milk Bars,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,15-Jul-22,error_value,173.0
+Dotty Strutley,InvalidCountry,50% Dark Bites,12-May-22,error_value,252.0
+Beverie Moffet,InvalidCountry,Organic Choco Syrup,30-Jun-22,error_value,256.0
+Husein Augar,InvalidCountry,85% Dark Bars,08-Aug-22,$378 ,54.0
+Beverie Moffet,Australia,Smooth Sliky Salty,25-Jul-22,"$7,350 ",6.0
+Beverie Moffet,UK,Smooth Sliky Salty,18-May-22,error_value,unknown
+Beverie Moffet,India,Smooth Sliky Salty,15-Jul-22,error_value,unknown
+Curtice Advani,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,282 ",unknown
+Beverie Moffet,USA,Smooth Sliky Salty,04-Jul-22,"$5,425 ",unknown
+Dotty Strutley,UK,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Gunar Cockshoot,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,424.0
+Kaine Padly,New Zealand,Spicy Special Slims,30-Jun-22,"$7,728 ",37.0
+Gigi Bohling,USA,50% Dark Bites,13-Apr-22,"$2,296 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,76.0
+Beverie Moffet,InvalidCountry,Baker's Choco Chips,04-Aug-22,"$3,192 ",109.0
+Beverie Moffet,India,Smooth Sliky Salty,01-Jun-22,$448 ,unknown
+Jehu Rudeforth,UK,Smooth Sliky Salty,22-Apr-22,"$4,270 ",unknown
+Beverie Moffet,USA,50% Dark Bites,30-Jun-22,$70 ,unknown
+Ches Bonnell,USA,Orange Choco,30-Jun-22,"$1,743 ",69.0
+Gunar Cockshoot,InvalidCountry,Manuka Honey Choco,27-Jun-22,"$6,762 ",unknown
+Marney O'Breen,Australia,Smooth Sliky Salty,03-Jan-22,"$3,745 ",170.0
+Marney O'Breen,India,After Nines,11-Jul-22,error_value,179.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$4,389 ",126.0
+Beverie Moffet,InvalidCountry,Fruit & Nut Bars,18-Jan-22,"$2,604 ",65.0
+Ches Bonnell,InvalidCountry,Organic Choco Syrup,08-Mar-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Orange Choco,07-Mar-22,"$14,658 ",unknown
+Husein Augar,India,70% Dark Bites,30-Jun-22,error_value,157.0
+Beverie Moffet,InvalidCountry,85% Dark Bars,23-May-22,error_value,157.0
+Madelene Upcott,UK,Smooth Sliky Salty,30-Jun-22,error_value,145.0
+Gigi Bohling,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Marney O'Breen,Canada,Smooth Sliky Salty,22-Aug-22,"$2,639 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,11-May-22,error_value,unknown
+Madelene Upcott,India,Organic Choco Syrup,26-Jan-22,"$4,781 ",unknown
+Barr Faughny,USA,50% Dark Bites,30-Jun-22,"$13,034 ",unknown
+Dennison Crosswaite,New Zealand,Mint Chip Choco,30-Jun-22,error_value,417.0
+Marney O'Breen,New Zealand,Smooth Sliky Salty,14-Jun-22,"$8,484 ",57.0
+Brien Boise,Canada,Smooth Sliky Salty,13-Apr-22,"$4,781 ",unknown
+Beverie Moffet,InvalidCountry,White Choc,27-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,26-Jan-22,error_value,unknown
+Barr Faughny,InvalidCountry,White Choc,05-Jul-22,"$1,652 ",72.0
+Beverie Moffet,Canada,Baker's Choco Chips,11-Jan-22,error_value,unknown
+Beverie Moffet,USA,White Choc,07-Mar-22,"$9,422 ",22.0
+Beverie Moffet,Canada,50% Dark Bites,04-Mar-22,"$8,687 ",100.0
+Karlen McCaffrey,InvalidCountry,Organic Choco Syrup,15-Jul-22,error_value,312.0
+Beverie Moffet,UK,Peanut Butter Cubes,11-May-22,error_value,unknown
+Karlen McCaffrey,USA,Smooth Sliky Salty,30-Jun-22,"$4,389 ",unknown
+Karlen McCaffrey,InvalidCountry,Smooth Sliky Salty,27-Jun-22,"$3,122 ",149.0
+Beverie Moffet,India,Smooth Sliky Salty,30-Jun-22,"$8,043 ",18.0
+Beverie Moffet,InvalidCountry,Mint Chip Choco,19-Aug-22,"$11,662 ",242.0
+Wilone O'Kielt,InvalidCountry,Fruit & Nut Bars,15-Jun-22,error_value,unknown
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,"$8,925 ",unknown
+Beverie Moffet,Australia,Almond Choco,08-Jul-22,"$7,294 ",128.0
+Beverie Moffet,India,Smooth Sliky Salty,30-Jun-22,"$1,526 ",unknown
+Beverie Moffet,InvalidCountry,Mint Chip Choco,08-Apr-22,"$2,688 ",unknown
+Husein Augar,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$14,889 ",unknown
+Jan Morforth,InvalidCountry,Fruit & Nut Bars,04-May-22,error_value,unknown
+Mallorie Waber,USA,Smooth Sliky Salty,30-Jun-22,"$2,632 ",108.0
+Beverie Moffet,InvalidCountry,Eclairs,22-Mar-22,"$6,328 ",unknown
+Dennison Crosswaite,Canada,Spicy Special Slims,10-Aug-22,error_value,216.0
+Beverie Moffet,USA,Fruit & Nut Bars,04-May-22,"$1,414 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$7,714 ",unknown
+Dotty Strutley,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$4,347 ",238.0
+Marney O'Breen,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,Australia,Choco Coated Almonds,08-Apr-22,"$2,058 ",72.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,3.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,15-Mar-22,$455 ,unknown
+Karlen McCaffrey,InvalidCountry,Mint Chip Choco,30-Jun-22,"$10,990 ",unknown
+Beverie Moffet,New Zealand,Almond Choco,13-Jan-22,"$5,558 ",127.0
+Mallorie Waber,InvalidCountry,85% Dark Bars,30-Jun-22,"$2,541 ",53.0
+Beverie Moffet,InvalidCountry,Eclairs,30-Jun-22,error_value,172.0
+Gigi Bohling,InvalidCountry,White Choc,11-May-22,"$5,523 ",unknown
+Beverie Moffet,New Zealand,85% Dark Bars,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Caramel Stuffed Bars,30-Jun-22,"$5,593 ",122.0
+Mallorie Waber,Australia,Almond Choco,01-Aug-22,error_value,125.0
+Beverie Moffet,Canada,85% Dark Bars,17-Feb-22,"$10,241 ",unknown
+Brien Boise,Australia,Drinking Coco,27-Jul-22,error_value,unknown
+Dotty Strutley,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,Australia,Smooth Sliky Salty,22-Mar-22,error_value,40.0
+Dennison Crosswaite,India,99% Dark & Pure,30-Jun-22,error_value,unknown
+Curtice Advani,UK,White Choc,30-Jun-22,error_value,unknown
+Kelci Walkden,InvalidCountry,After Nines,30-Jun-22,error_value,unknown
+Gigi Bohling,UK,Fruit & Nut Bars,30-Jun-22,"$1,232 ",unknown
+Gunar Cockshoot,Australia,Raspberry Choco,17-Mar-22,$602 ,72.0
+Curtice Advani,UK,Fruit & Nut Bars,30-Jun-22,"$10,927 ",136.0
+Beverie Moffet,Canada,Smooth Sliky Salty,19-Jul-22,error_value,303.0
+Beverie Moffet,USA,Spicy Special Slims,30-Jun-22,error_value,264.0
+Brien Boise,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,218.0
+Oby Sorrel,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$8,673 ",unknown
+Jan Morforth,India,85% Dark Bars,25-May-22,error_value,418.0
+Marney O'Breen,InvalidCountry,Smooth Sliky Salty,13-Apr-22,error_value,151.0
+Beverie Moffet,InvalidCountry,50% Dark Bites,30-Jun-22,"$3,374 ",unknown
+Gunar Cockshoot,Canada,Raspberry Choco,23-Jun-22,error_value,126.0
+Kelci Walkden,InvalidCountry,Drinking Coco,26-Jul-22,error_value,160.0
+Beverie Moffet,Canada,White Choc,22-Mar-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Baker's Choco Chips,30-Jun-22,error_value,unknown
+Beverie Moffet,Australia,Caramel Stuffed Bars,17-May-22,error_value,unknown
+Beverie Moffet,New Zealand,Peanut Butter Cubes,30-Jun-22,$889 ,273.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,07-Jul-22,"$16,016 ",28.0
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,13-Jan-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Almond Choco,13-Jul-22,error_value,unknown
+Beverie Moffet,InvalidCountry,85% Dark Bars,16-Jun-22,error_value,329.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,18-Jul-22,"$8,197 ",69.0
+Ches Bonnell,UK,Manuka Honey Choco,30-May-22,"$4,221 ",unknown
+Gigi Bohling,InvalidCountry,Smooth Sliky Salty,21-Jun-22,error_value,81.0
+Jehu Rudeforth,InvalidCountry,Peanut Butter Cubes,24-Jun-22,error_value,38.0
+Marney O'Breen,India,Eclairs,30-Jun-22,"$3,472 ",unknown
+Beverie Moffet,Canada,Fruit & Nut Bars,04-Apr-22,"$4,193 ",unknown
+Kaine Padly,UK,Smooth Sliky Salty,08-Jun-22,"$9,016 ",554.0
+Karlen McCaffrey,Canada,Spicy Special Slims,30-Jun-22,"$6,328 ",47.0
+Kelci Walkden,USA,Organic Choco Syrup,21-Jul-22,"$9,870 ",unknown
+Curtice Advani,India,Spicy Special Slims,30-Jun-22,$161 ,unknown
+Roddy Speechley,InvalidCountry,After Nines,22-Jun-22,error_value,112.0
+Beverie Moffet,Australia,Caramel Stuffed Bars,02-May-22,error_value,16.0
+Beverie Moffet,InvalidCountry,99% Dark & Pure,30-Jun-22,"$4,676 ",unknown
+Mallorie Waber,InvalidCountry,50% Dark Bites,21-Feb-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,21-Mar-22,"$7,462 ",371.0
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,"$5,803 ",unknown
+Gunar Cockshoot,Canada,Fruit & Nut Bars,24-Mar-22,error_value,203.0
+Gunar Cockshoot,New Zealand,Smooth Sliky Salty,28-Jun-22,"$6,867 ",unknown
+Beverie Moffet,InvalidCountry,Drinking Coco,14-Jan-22,"$2,317 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,07-Feb-22,error_value,unknown
+Beverie Moffet,New Zealand,Drinking Coco,11-Jan-22,error_value,unknown
+Jehu Rudeforth,India,99% Dark & Pure,25-Feb-22,error_value,unknown
+Beverie Moffet,Australia,Mint Chip Choco,30-Jun-22,error_value,25.0
+Roddy Speechley,Australia,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Madelene Upcott,New Zealand,Smooth Sliky Salty,18-May-22,error_value,unknown
+Beverie Moffet,New Zealand,Choco Coated Almonds,04-Jan-22,error_value,unknown
+Roddy Speechley,New Zealand,50% Dark Bites,09-May-22,"$4,312 ",211.0
+Rafaelita Blaksland,India,Smooth Sliky Salty,30-Jun-22,error_value,81.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,13-Jan-22,"$10,815 ",145.0
+Roddy Speechley,InvalidCountry,Almond Choco,24-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Caramel Stuffed Bars,14-Feb-22,error_value,unknown
+Camilla Castle,Australia,Smooth Sliky Salty,30-Jun-22,error_value,101.0
+Beverie Moffet,InvalidCountry,Milk Bars,30-Jun-22,"$2,905 ",91.0
+Ches Bonnell,Australia,Smooth Sliky Salty,16-May-22,"$7,490 ",54.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,28-Jan-22,"$6,986 ",unknown
+Kaine Padly,Canada,99% Dark & Pure,30-Jun-22,error_value,unknown
+Beverie Moffet,UK,After Nines,18-Jul-22,"$2,345 ",unknown
+Gunar Cockshoot,InvalidCountry,Eclairs,13-Apr-22,"$3,619 ",unknown
+Dotty Strutley,InvalidCountry,Caramel Stuffed Bars,30-Jun-22,error_value,unknown
+Jan Morforth,India,Peanut Butter Cubes,30-Jun-22,error_value,178.0
+Husein Augar,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,24-Mar-22,"$2,317 ",unknown
+Camilla Castle,Australia,Smooth Sliky Salty,17-Mar-22,$637 ,169.0
+Oby Sorrel,InvalidCountry,Almond Choco,15-Feb-22,"$6,034 ",unknown
+Beverie Moffet,USA,Smooth Sliky Salty,29-Jun-22,$980 ,unknown
+Beverie Moffet,USA,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Mallorie Waber,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$3,563 ",unknown
+Beverie Moffet,USA,Raspberry Choco,15-Mar-22,error_value,unknown
+Marney O'Breen,InvalidCountry,Smooth Sliky Salty,08-Feb-22,error_value,309.0
+Brien Boise,InvalidCountry,Caramel Stuffed Bars,30-Jun-22,error_value,unknown
+Gunar Cockshoot,USA,Smooth Sliky Salty,03-May-22,error_value,42.0
+Beverie Moffet,USA,Smooth Sliky Salty,14-Jun-22,error_value,24.0
+Gunar Cockshoot,InvalidCountry,Smooth Sliky Salty,09-Aug-22,"$12,992 ",83.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,30-Jun-22,"$3,724 ",234.0
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,"$7,133 ",unknown
+Van Tuxwell,InvalidCountry,Smooth Sliky Salty,24-Feb-22,"$8,617 ",46.0
+Beverie Moffet,New Zealand,Almond Choco,15-Mar-22,error_value,unknown
+Oby Sorrel,New Zealand,Baker's Choco Chips,25-Apr-22,"$11,823 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,10-May-22,"$5,775 ",41.0
+Marney O'Breen,InvalidCountry,Spicy Special Slims,23-Jun-22,"$13,125 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$14,287 ",unknown
+Brien Boise,InvalidCountry,Organic Choco Syrup,25-May-22,"$16,233 ",138.0
+Roddy Speechley,InvalidCountry,Smooth Sliky Salty,22-Feb-22,error_value,unknown
+Beverie Moffet,UK,Smooth Sliky Salty,11-Jul-22,"$3,577 ",unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,30-Jun-22,error_value,336.0
+Rafaelita Blaksland,New Zealand,Smooth Sliky Salty,24-Aug-22,$679 ,unknown
+Beverie Moffet,USA,Smooth Sliky Salty,28-Jul-22,error_value,unknown
+Beverie Moffet,USA,Mint Chip Choco,30-Jun-22,"$10,577 ",unknown
+Beverie Moffet,InvalidCountry,Eclairs,06-May-22,"$2,597 ",unknown
+Beverie Moffet,India,Smooth Sliky Salty,30-Jun-22,"$2,219 ",142.0
+Marney O'Breen,UK,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Brien Boise,InvalidCountry,Baker's Choco Chips,12-Jul-22,"$5,978 ",unknown
+Ches Bonnell,Canada,Smooth Sliky Salty,05-Aug-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Orange Choco,30-Jun-22,"$6,020 ",147.0
+Beverie Moffet,India,Spicy Special Slims,31-Aug-22,"$5,614 ",unknown
+Beverie Moffet,USA,Smooth Sliky Salty,19-Apr-22,"$1,736 ",unknown
+Mallorie Waber,UK,Mint Chip Choco,30-Jun-22,"$6,384 ",unknown
+Beverie Moffet,India,Choco Coated Almonds,24-Feb-22,error_value,261.0
+Madelene Upcott,UK,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Gigi Bohling,India,Smooth Sliky Salty,21-Jun-22,"$3,493 ",68.0
+Beverie Moffet,InvalidCountry,Organic Choco Syrup,26-Jan-22,error_value,unknown
+Beverie Moffet,InvalidCountry,White Choc,10-Jun-22,error_value,40.0
+Andria Kimpton,InvalidCountry,Drinking Coco,23-May-22,"$1,554 ",unknown
+Beverie Moffet,India,Milk Bars,30-Jun-22,$966 ,107.0
+Karlen McCaffrey,New Zealand,Caramel Stuffed Bars,30-Jun-22,error_value,227.0
+Andria Kimpton,New Zealand,Organic Choco Syrup,30-Jun-22,"$4,935 ",unknown
+Beverie Moffet,New Zealand,After Nines,30-Jun-22,"$10,024 ",unknown
+Beverie Moffet,UK,Smooth Sliky Salty,16-May-22,error_value,100.0
+Oby Sorrel,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$1,043 ",120.0
+Dennison Crosswaite,InvalidCountry,Raspberry Choco,30-Jun-22,error_value,unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,09-Feb-22,"$8,148 ",85.0
+Mallorie Waber,Canada,Orange Choco,30-Jun-22,"$3,577 ",unknown
+Madelene Upcott,New Zealand,Caramel Stuffed Bars,01-Feb-22,"$3,374 ",unknown
+Mallorie Waber,InvalidCountry,Smooth Sliky Salty,07-Mar-22,"$3,948 ",142.0
+Beverie Moffet,UK,Smooth Sliky Salty,03-Jan-22,"$3,269 ",226.0
+Ches Bonnell,USA,Smooth Sliky Salty,11-Feb-22,"$5,271 ",unknown
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,16-Mar-22,"$4,571 ",140.0
+Dotty Strutley,India,Smooth Sliky Salty,30-Jun-22,"$12,327 ",unknown
+Beverie Moffet,India,Manuka Honey Choco,12-May-22,error_value,73.0
+Beverie Moffet,InvalidCountry,Spicy Special Slims,30-Jun-22,"$6,167 ",4.0
+Jan Morforth,New Zealand,Smooth Sliky Salty,30-Jun-22,error_value,285.0
+Beverie Moffet,InvalidCountry,White Choc,30-Jun-22,error_value,60.0
+Rafaelita Blaksland,Canada,Caramel Stuffed Bars,01-Aug-22,error_value,unknown
+Kaine Padly,InvalidCountry,Smooth Sliky Salty,15-Jun-22,error_value,unknown
+Brien Boise,InvalidCountry,After Nines,30-Jun-22,"$5,747 ",unknown
+Oby Sorrel,InvalidCountry,Smooth Sliky Salty,13-May-22,error_value,281.0
+Beverie Moffet,InvalidCountry,Drinking Coco,10-May-22,"$2,191 ",unknown
+Oby Sorrel,India,Eclairs,25-Aug-22,"$5,663 ",unknown
+Ches Bonnell,New Zealand,Smooth Sliky Salty,15-Jul-22,error_value,unknown
+Gigi Bohling,InvalidCountry,Smooth Sliky Salty,16-May-22,"$9,023 ",unknown
+Jan Morforth,InvalidCountry,50% Dark Bites,30-Jun-22,"$3,402 ",unknown
+Beverie Moffet,Australia,Smooth Sliky Salty,30-Jun-22,"$10,507 ",467.0
+Ches Bonnell,USA,Organic Choco Syrup,30-Jun-22,error_value,unknown
+Beverie Moffet,Canada,Mint Chip Choco,30-Jun-22,error_value,unknown
+Beverie Moffet,UK,Orange Choco,29-Jun-22,"$1,960 ",unknown
+Beverie Moffet,Australia,70% Dark Bites,24-Jun-22,error_value,317.0
+Gunar Cockshoot,Canada,Mint Chip Choco,01-Jul-22,"$7,756 ",410.0
+Roddy Speechley,USA,Peanut Butter Cubes,25-Feb-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,01-Aug-22,error_value,unknown
+Oby Sorrel,Australia,Milk Bars,30-Jun-22,error_value,254.0
+Camilla Castle,New Zealand,Smooth Sliky Salty,30-Jun-22,error_value,24.0
+Beverie Moffet,UK,Milk Bars,30-Jun-22,error_value,232.0
+Beverie Moffet,Australia,85% Dark Bars,23-Aug-22,error_value,233.0
+Camilla Castle,Australia,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,India,Smooth Sliky Salty,30-May-22,error_value,unknown
+Beverie Moffet,USA,Drinking Coco,29-Jun-22,error_value,223.0
+Beverie Moffet,Canada,Organic Choco Syrup,30-Jun-22,"$8,204 ",204.0
+Jehu Rudeforth,InvalidCountry,Drinking Coco,14-Jan-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Mint Chip Choco,15-Feb-22,"$15,652 ",53.0
+Curtice Advani,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$4,074 ",469.0
+Madelene Upcott,InvalidCountry,White Choc,04-May-22,error_value,213.0
+Andria Kimpton,InvalidCountry,Smooth Sliky Salty,23-May-22,error_value,5.0
+Barr Faughny,InvalidCountry,Fruit & Nut Bars,26-Apr-22,error_value,147.0
+Oby Sorrel,Canada,Organic Choco Syrup,30-Jun-22,error_value,74.0
+Beverie Moffet,UK,Smooth Sliky Salty,21-Jul-22,"$6,965 ",unknown
+Dotty Strutley,USA,Mint Chip Choco,30-Jun-22,"$5,292 ",248.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,03-Feb-22,"$1,379 ",unknown
+Gigi Bohling,Australia,Caramel Stuffed Bars,08-Jul-22,"$8,001 ",151.0
+Mallorie Waber,India,50% Dark Bites,31-May-22,$588 ,139.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Van Tuxwell,India,Smooth Sliky Salty,13-May-22,"$5,103 ",129.0
+Beverie Moffet,InvalidCountry,Manuka Honey Choco,31-May-22,error_value,unknown
+Wilone O'Kielt,InvalidCountry,Orange Choco,30-Jun-22,error_value,unknown
+Barr Faughny,InvalidCountry,Smooth Sliky Salty,28-Mar-22,"$6,713 ",unknown
+Gigi Bohling,USA,Smooth Sliky Salty,14-Jan-22,error_value,227.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,21-Feb-22,"$6,440 ",unknown
+Dennison Crosswaite,Canada,85% Dark Bars,01-Aug-22,"$10,885 ",unknown
+Beverie Moffet,New Zealand,Smooth Sliky Salty,19-May-22,error_value,59.0
+Beverie Moffet,USA,White Choc,13-Jul-22,"$2,030 ",60.0
+Beverie Moffet,Australia,Peanut Butter Cubes,30-Jun-22,error_value,unknown
+Dennison Crosswaite,InvalidCountry,85% Dark Bars,30-Jun-22,error_value,22.0
+Beverie Moffet,InvalidCountry,50% Dark Bites,30-Jun-22,error_value,unknown
+Gunar Cockshoot,USA,Fruit & Nut Bars,09-Mar-22,"$5,852 ",93.0
+Beverie Moffet,Canada,Raspberry Choco,16-Jun-22,error_value,unknown
+Beverie Moffet,UK,Drinking Coco,30-Jun-22,"$5,782 ",unknown
+Kelci Walkden,InvalidCountry,Smooth Sliky Salty,28-Jul-22,"$2,870 ",120.0
+Karlen McCaffrey,InvalidCountry,Peanut Butter Cubes,12-Aug-22,error_value,unknown
+Barr Faughny,UK,Smooth Sliky Salty,30-Jun-22,"$3,724 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,25-Aug-22,error_value,47.0
+Husein Augar,Canada,Smooth Sliky Salty,17-Jan-22,"$3,696 ",233.0
+Jan Morforth,InvalidCountry,Smooth Sliky Salty,04-Mar-22,"$5,222 ",384.0
+Marney O'Breen,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,4.0
+Beverie Moffet,InvalidCountry,Peanut Butter Cubes,15-Apr-22,"$2,156 ",260.0
+Beverie Moffet,InvalidCountry,Organic Choco Syrup,30-Jun-22,"$2,380 ",22.0
+Camilla Castle,InvalidCountry,Raspberry Choco,20-May-22,error_value,unknown
+Brien Boise,New Zealand,Manuka Honey Choco,14-Jun-22,error_value,unknown
+Jehu Rudeforth,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,73.0
+Jehu Rudeforth,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$6,657 ",154.0
+Beverie Moffet,India,Mint Chip Choco,24-Aug-22,"$3,836 ",71.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$8,771 ",127.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,09-May-22,$651 ,224.0
+Beverie Moffet,InvalidCountry,70% Dark Bites,30-Jun-22,"$6,706 ",unknown
+Beverie Moffet,InvalidCountry,70% Dark Bites,24-Mar-22,error_value,284.0
+Beverie Moffet,USA,Drinking Coco,20-Jun-22,"$8,526 ",73.0
+Beverie Moffet,InvalidCountry,Manuka Honey Choco,07-Mar-22,error_value,112.0
+Kaine Padly,Australia,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,17-Feb-22,error_value,270.0
+Madelene Upcott,UK,99% Dark & Pure,30-Jun-22,"$10,479 ",45.0
+Beverie Moffet,InvalidCountry,Mint Chip Choco,02-May-22,"$2,751 ",153.0
+Curtice Advani,Canada,99% Dark & Pure,07-Jul-22,error_value,7.0
+Beverie Moffet,InvalidCountry,Baker's Choco Chips,30-Jun-22,error_value,unknown
+Karlen McCaffrey,Australia,Smooth Sliky Salty,11-Aug-22,"$2,303 ",67.0
+Marney O'Breen,InvalidCountry,99% Dark & Pure,30-Jun-22,error_value,194.0
+Gunar Cockshoot,Australia,Smooth Sliky Salty,30-Jun-22,"$12,271 ",116.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,27-Jul-22,error_value,41.0
+Kelci Walkden,InvalidCountry,Drinking Coco,10-Mar-22,error_value,111.0
+Beverie Moffet,InvalidCountry,85% Dark Bars,23-Aug-22,"$12,404 ",334.0
+Roddy Speechley,USA,Smooth Sliky Salty,30-Jun-22,"$3,990 ",155.0
+Dennison Crosswaite,UK,Milk Bars,07-Mar-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Organic Choco Syrup,30-Jun-22,error_value,52.0
+Madelene Upcott,USA,Smooth Sliky Salty,16-May-22,error_value,unknown
+Beverie Moffet,India,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,New Zealand,85% Dark Bars,30-May-22,error_value,149.0
+Marney O'Breen,InvalidCountry,Manuka Honey Choco,30-Jun-22,"$10,983 ",unknown
+Brien Boise,InvalidCountry,99% Dark & Pure,30-Jun-22,error_value,unknown
+Beverie Moffet,New Zealand,Mint Chip Choco,30-Jun-22,"$4,361 ",97.0
+Dennison Crosswaite,USA,Milk Bars,12-May-22,error_value,60.0
+Gunar Cockshoot,USA,Drinking Coco,09-May-22,"$3,843 ",5.0
+Brien Boise,Canada,Manuka Honey Choco,09-Aug-22,"$6,930 ",182.0
+Van Tuxwell,India,Choco Coated Almonds,13-Apr-22,error_value,114.0
+Andria Kimpton,InvalidCountry,Caramel Stuffed Bars,02-May-22,"$8,393 ",unknown
+Beverie Moffet,InvalidCountry,99% Dark & Pure,09-Aug-22,"$3,822 ",320.0
+Camilla Castle,Australia,Smooth Sliky Salty,23-Aug-22,"$6,342 ",unknown
+Gunar Cockshoot,InvalidCountry,Spicy Special Slims,30-Jun-22,error_value,unknown
+Karlen McCaffrey,USA,Manuka Honey Choco,01-Feb-22,error_value,67.0
+Camilla Castle,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$5,908 ",unknown
+Madelene Upcott,InvalidCountry,Choco Coated Almonds,30-Jun-22,error_value,unknown
+Jan Morforth,InvalidCountry,Mint Chip Choco,30-Jun-22,"$1,064 ",unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,30-Jun-22,error_value,151.0
+Beverie Moffet,India,Smooth Sliky Salty,30-Jun-22,error_value,208.0
+Jan Morforth,InvalidCountry,Smooth Sliky Salty,12-Aug-22,"$2,541 ",134.0
+Gigi Bohling,Canada,Smooth Sliky Salty,30-Jun-22,error_value,49.0
+Beverie Moffet,India,After Nines,02-Mar-22,error_value,204.0
+Beverie Moffet,Australia,99% Dark & Pure,30-Jun-22,"$3,185 ",34.0
+Beverie Moffet,Australia,Spicy Special Slims,17-Jan-22,"$8,225 ",91.0
+Beverie Moffet,USA,Milk Bars,07-Jul-22,error_value,130.0
+Mallorie Waber,InvalidCountry,Mint Chip Choco,31-Jan-22,"$1,316 ",107.0
+Beverie Moffet,UK,99% Dark & Pure,10-Aug-22,error_value,121.0
+Beverie Moffet,InvalidCountry,Peanut Butter Cubes,18-Aug-22,error_value,unknown
+Beverie Moffet,New Zealand,White Choc,15-Jun-22,error_value,unknown
+Marney O'Breen,USA,Baker's Choco Chips,26-Jan-22,"$8,470 ",unknown
+Beverie Moffet,USA,Spicy Special Slims,29-Apr-22,$77 ,69.0
+Mallorie Waber,InvalidCountry,Smooth Sliky Salty,03-Mar-22,error_value,72.0
+Beverie Moffet,Australia,Almond Choco,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$3,577 ",158.0
+Beverie Moffet,India,Smooth Sliky Salty,30-Jun-22,"$2,975 ",9.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,17-Jun-22,"$4,137 ",347.0
+Jan Morforth,InvalidCountry,Caramel Stuffed Bars,02-Aug-22,error_value,114.0
+Oby Sorrel,USA,Smooth Sliky Salty,30-Jun-22,"$8,001 ",unknown
+Madelene Upcott,InvalidCountry,Smooth Sliky Salty,28-Jan-22,"$5,152 ",333.0
+Beverie Moffet,InvalidCountry,Orange Choco,30-Jun-22,"$11,116 ",432.0
+Marney O'Breen,Australia,Manuka Honey Choco,30-Jun-22,"$13,076 ",unknown
+Kaine Padly,Canada,Smooth Sliky Salty,18-Jan-22,error_value,135.0
+Jehu Rudeforth,UK,Smooth Sliky Salty,16-May-22,error_value,97.0
+Kelci Walkden,InvalidCountry,White Choc,24-Aug-22,"$8,715 ",168.0
+Curtice Advani,India,85% Dark Bars,18-Jan-22,error_value,unknown
+Kaine Padly,InvalidCountry,Eclairs,22-Aug-22,"$7,623 ",unknown
+Gunar Cockshoot,UK,99% Dark & Pure,30-Jun-22,$7 ,84.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$3,010 ",unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,22-Apr-22,error_value,111.0
+Jan Morforth,Canada,Smooth Sliky Salty,30-Jun-22,"$8,904 ",unknown
+Jan Morforth,India,Smooth Sliky Salty,30-Jun-22,"$11,298 ",89.0
+Rafaelita Blaksland,InvalidCountry,Manuka Honey Choco,03-Aug-22,error_value,unknown
+Jehu Rudeforth,UK,Milk Bars,03-May-22,error_value,unknown
+Husein Augar,Canada,After Nines,19-Jan-22,error_value,unknown
+Roddy Speechley,USA,Smooth Sliky Salty,11-Feb-22,error_value,unknown
+Van Tuxwell,InvalidCountry,Smooth Sliky Salty,14-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,23-Mar-22,"$6,188 ",unknown
+Madelene Upcott,Canada,85% Dark Bars,30-Jun-22,"$7,504 ",101.0
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,17-Mar-22,error_value,unknown
+Mallorie Waber,Australia,Spicy Special Slims,30-Jun-22,error_value,287.0
+Beverie Moffet,Canada,Smooth Sliky Salty,30-Jun-22,error_value,269.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,04-Jul-22,error_value,277.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,723 ",unknown
+Beverie Moffet,India,Smooth Sliky Salty,19-Apr-22,"$19,327 ",unknown
+Ches Bonnell,InvalidCountry,Mint Chip Choco,30-Jun-22,"$9,058 ",229.0
+Van Tuxwell,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,996 ",unknown
+Andria Kimpton,InvalidCountry,Mint Chip Choco,15-Feb-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Milk Bars,11-Feb-22,"$14,336 ",293.0
+Beverie Moffet,USA,Manuka Honey Choco,21-Mar-22,error_value,unknown
+Gunar Cockshoot,New Zealand,Smooth Sliky Salty,05-Jan-22,"$5,173 ",129.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-May-22,"$6,328 ",164.0
+Jehu Rudeforth,USA,Smooth Sliky Salty,30-Jun-22,error_value,219.0
+Beverie Moffet,Australia,Fruit & Nut Bars,30-Jun-22,"$1,435 ",258.0
+Beverie Moffet,Canada,Milk Bars,10-Feb-22,"$3,052 ",116.0
+Beverie Moffet,India,Spicy Special Slims,30-Jun-22,$910 ,unknown
+Gunar Cockshoot,USA,Organic Choco Syrup,10-Aug-22,"$2,331 ",321.0
+Kelci Walkden,InvalidCountry,Smooth Sliky Salty,07-Jun-22,error_value,56.0
+Jehu Rudeforth,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,086 ",unknown
+Beverie Moffet,New Zealand,Smooth Sliky Salty,05-Apr-22,"$5,012 ",unknown
+Beverie Moffet,USA,50% Dark Bites,30-Jun-22,"$4,501 ",unknown
+Andria Kimpton,India,50% Dark Bites,31-Jan-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,22-Aug-22,error_value,140.0
+Jehu Rudeforth,InvalidCountry,99% Dark & Pure,25-Feb-22,"$10,486 ",unknown
+Beverie Moffet,InvalidCountry,Mint Chip Choco,22-Feb-22,"$17,626 ",unknown
+Beverie Moffet,New Zealand,Milk Bars,30-Jun-22,error_value,187.0
+Beverie Moffet,UK,Almond Choco,25-May-22,$105 ,unknown
+Kelci Walkden,India,Smooth Sliky Salty,30-Jun-22,"$2,464 ",8.0
+Rafaelita Blaksland,UK,Smooth Sliky Salty,27-Apr-22,"$1,379 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,583 ",unknown
+Beverie Moffet,New Zealand,Smooth Sliky Salty,26-Jan-22,"$3,220 ",265.0
+Curtice Advani,USA,Smooth Sliky Salty,30-Jun-22,error_value,296.0
+Madelene Upcott,New Zealand,Fruit & Nut Bars,18-Jan-22,"$5,677 ",unknown
+Beverie Moffet,InvalidCountry,85% Dark Bars,30-Jun-22,$945 ,unknown
+Beverie Moffet,InvalidCountry,Caramel Stuffed Bars,30-Jun-22,"$8,757 ",unknown
+Beverie Moffet,USA,Fruit & Nut Bars,17-Feb-22,error_value,145.0
+Kelci Walkden,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,44.0
+Gigi Bohling,InvalidCountry,Drinking Coco,30-Jun-22,"$3,549 ",82.0
+Husein Augar,InvalidCountry,Fruit & Nut Bars,04-Apr-22,"$4,340 ",226.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,02-Mar-22,"$1,799 ",207.0
+Gigi Bohling,New Zealand,Smooth Sliky Salty,09-Aug-22,"$1,127 ",176.0
+Beverie Moffet,Australia,Milk Bars,30-Jun-22,"$10,038 ",286.0
+Ches Bonnell,UK,Smooth Sliky Salty,30-Jun-22,"$2,926 ",300.0
+Van Tuxwell,USA,Smooth Sliky Salty,30-Jun-22,error_value,235.0
+Andria Kimpton,Canada,Eclairs,30-Jun-22,$308 ,125.0
+Madelene Upcott,InvalidCountry,Smooth Sliky Salty,11-Feb-22,"$3,500 ",145.0
+Kelci Walkden,InvalidCountry,Smooth Sliky Salty,30-Jun-22,$658 ,unknown
+Beverie Moffet,Australia,Drinking Coco,12-May-22,"$12,565 ",102.0
+Wilone O'Kielt,USA,Smooth Sliky Salty,30-Jun-22,error_value,93.0
+Andria Kimpton,India,Organic Choco Syrup,18-Jan-22,error_value,134.0
+Beverie Moffet,UK,Smooth Sliky Salty,05-Jan-22,"$8,512 ",189.0
+Curtice Advani,Australia,Smooth Sliky Salty,29-Jun-22,error_value,unknown
+Brien Boise,Canada,Raspberry Choco,14-Jun-22,"$2,800 ",45.0
+Gunar Cockshoot,India,Smooth Sliky Salty,30-Jun-22,error_value,67.0
+Dennison Crosswaite,InvalidCountry,Mint Chip Choco,23-Mar-22,error_value,138.0
+Barr Faughny,India,Caramel Stuffed Bars,04-Jan-22,error_value,99.0
+Brien Boise,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,251.0
+Beverie Moffet,InvalidCountry,Spicy Special Slims,17-Feb-22,error_value,252.0
+Barr Faughny,USA,Smooth Sliky Salty,03-Feb-22,error_value,unknown
+Beverie Moffet,Canada,Raspberry Choco,30-Jun-22,"$1,267 ",130.0
+Wilone O'Kielt,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Brien Boise,Australia,Smooth Sliky Salty,30-Jun-22,"$1,981 ",52.0
+Husein Augar,Australia,Smooth Sliky Salty,28-Jan-22,error_value,53.0
+Madelene Upcott,InvalidCountry,Organic Choco Syrup,05-Jul-22,error_value,unknown
+Van Tuxwell,InvalidCountry,White Choc,30-Jun-22,"$1,897 ",44.0
+Gunar Cockshoot,Canada,After Nines,30-Jun-22,error_value,unknown
+Jan Morforth,USA,Fruit & Nut Bars,27-Jun-22,"$4,382 ",unknown
+Jan Morforth,Canada,Smooth Sliky Salty,30-Jun-22,"$4,515 ",unknown
+Beverie Moffet,InvalidCountry,Manuka Honey Choco,24-Feb-22,"$5,474 ",unknown
+Beverie Moffet,InvalidCountry,85% Dark Bars,30-Jun-22,"$6,069 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$6,944 ",unknown
+Curtice Advani,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,70% Dark Bites,24-Jan-22,"$12,173 ",unknown
+Beverie Moffet,USA,White Choc,11-Mar-22,error_value,unknown
+Beverie Moffet,InvalidCountry,After Nines,23-Jun-22,"$5,705 ",unknown
+Husein Augar,InvalidCountry,Spicy Special Slims,30-Jun-22,error_value,33.0
+Beverie Moffet,InvalidCountry,50% Dark Bites,30-Jun-22,error_value,23.0
+Curtice Advani,India,Milk Bars,30-Jun-22,"$3,437 ",201.0
+Beverie Moffet,India,Milk Bars,30-Jun-22,error_value,323.0
+Beverie Moffet,Australia,White Choc,30-Jun-22,"$3,171 ",unknown
+Beverie Moffet,Canada,Manuka Honey Choco,21-Jul-22,error_value,unknown
+Jan Morforth,InvalidCountry,Smooth Sliky Salty,11-Feb-22,"$1,225 ",unknown
+Andria Kimpton,Canada,Smooth Sliky Salty,08-Jul-22,"$1,155 ",79.0
+Beverie Moffet,UK,Raspberry Choco,11-Aug-22,error_value,344.0
+Husein Augar,InvalidCountry,Smooth Sliky Salty,04-Aug-22,"$6,433 ",unknown
+Andria Kimpton,New Zealand,Orange Choco,14-Jun-22,"$8,169 ",unknown
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,17-Jan-22,"$2,275 ",275.0
+Beverie Moffet,InvalidCountry,Orange Choco,23-Jun-22,"$3,857 ",unknown
+Jehu Rudeforth,UK,Smooth Sliky Salty,24-Aug-22,"$1,463 ",unknown
+Beverie Moffet,UK,Smooth Sliky Salty,07-Jun-22,error_value,275.0
+Beverie Moffet,UK,White Choc,30-Jun-22,error_value,47.0
+Dotty Strutley,USA,Smooth Sliky Salty,30-Jun-22,error_value,276.0
+Kelci Walkden,UK,Smooth Sliky Salty,30-Jun-22,"$9,506 ",212.0
+Gunar Cockshoot,InvalidCountry,Smooth Sliky Salty,09-Aug-22,"$7,175 ",145.0
+Kaine Padly,Canada,Smooth Sliky Salty,06-Apr-22,error_value,31.0
+Jan Morforth,New Zealand,Manuka Honey Choco,28-Jul-22,"$1,589 ",271.0
+Gunar Cockshoot,New Zealand,Raspberry Choco,24-Aug-22,$630 ,52.0
+Van Tuxwell,InvalidCountry,99% Dark & Pure,17-Jan-22,error_value,128.0
+Beverie Moffet,InvalidCountry,Drinking Coco,30-Jun-22,error_value,142.0
+Beverie Moffet,Australia,Spicy Special Slims,09-May-22,"$6,223 ",unknown
+Mallorie Waber,New Zealand,85% Dark Bars,06-Jun-22,error_value,unknown
+Wilone O'Kielt,InvalidCountry,Choco Coated Almonds,06-Jun-22,"$9,457 ",6.0
+Beverie Moffet,New Zealand,Organic Choco Syrup,24-May-22,error_value,226.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,121.0
+Beverie Moffet,InvalidCountry,Raspberry Choco,23-May-22,error_value,151.0
+Beverie Moffet,UK,White Choc,30-Jun-22,error_value,284.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,11-Mar-22,"$6,972 ",89.0
+Beverie Moffet,USA,Smooth Sliky Salty,30-Jun-22,error_value,508.0
+Beverie Moffet,Australia,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Manuka Honey Choco,30-Jun-22,"$1,547 ",unknown
+Mallorie Waber,USA,Peanut Butter Cubes,23-May-22,error_value,unknown
+Beverie Moffet,Canada,Peanut Butter Cubes,24-Jun-22,"$6,342 ",282.0
+Kelci Walkden,New Zealand,Smooth Sliky Salty,11-Mar-22,error_value,unknown
+Rafaelita Blaksland,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,212.0
+Beverie Moffet,USA,Smooth Sliky Salty,16-Aug-22,"$4,704 ",unknown
+Roddy Speechley,Canada,Smooth Sliky Salty,07-Mar-22,"$9,338 ",11.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,05-Apr-22,error_value,unknown
+Beverie Moffet,India,85% Dark Bars,04-May-22,error_value,51.0
+Ches Bonnell,USA,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Marney O'Breen,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$5,810 ",unknown
+Beverie Moffet,New Zealand,Fruit & Nut Bars,11-Jul-22,error_value,unknown
+Kaine Padly,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Camilla Castle,New Zealand,Smooth Sliky Salty,21-Jul-22,"$1,582 ",62.0
+Beverie Moffet,InvalidCountry,Organic Choco Syrup,30-Jun-22,error_value,22.0
+Jan Morforth,India,99% Dark & Pure,23-May-22,error_value,unknown
+Beverie Moffet,Canada,Drinking Coco,12-Jul-22,"$9,884 ",unknown
+Jan Morforth,InvalidCountry,Smooth Sliky Salty,15-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,23-Jun-22,"$4,557 ",unknown
+Curtice Advani,InvalidCountry,Eclairs,25-Mar-22,"$5,796 ",unknown
+Jan Morforth,India,Caramel Stuffed Bars,30-Jun-22,error_value,153.0
+Andria Kimpton,UK,Smooth Sliky Salty,30-Jun-22,"$9,037 ",101.0
+Camilla Castle,InvalidCountry,Raspberry Choco,04-Apr-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Orange Choco,15-Apr-22,"$6,713 ",unknown
+Roddy Speechley,Canada,Eclairs,30-Jun-22,"$6,237 ",88.0
+Karlen McCaffrey,India,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Wilone O'Kielt,India,Mint Chip Choco,30-Jun-22,"$1,309 ",unknown
+Beverie Moffet,UK,99% Dark & Pure,30-Jun-22,"$1,155 ",66.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,14-Jun-22,"$2,989 ",124.0
+Ches Bonnell,India,Smooth Sliky Salty,05-Apr-22,"$9,625 ",78.0
+Beverie Moffet,UK,Raspberry Choco,30-Jun-22,"$7,357 ",unknown
+Wilone O'Kielt,InvalidCountry,50% Dark Bites,03-Aug-22,error_value,114.0
+Beverie Moffet,InvalidCountry,White Choc,11-Jul-22,"$6,587 ",4.0
+Wilone O'Kielt,New Zealand,Eclairs,11-Mar-22,error_value,unknown
+Brien Boise,UK,Smooth Sliky Salty,10-Jan-22,"$15,330 ",unknown
+Roddy Speechley,InvalidCountry,Baker's Choco Chips,04-Apr-22,"$14,028 ",351.0
+Karlen McCaffrey,InvalidCountry,Smooth Sliky Salty,17-Jan-22,"$6,678 ",unknown
+Beverie Moffet,New Zealand,Organic Choco Syrup,08-Jul-22,"$8,624 ",50.0
+Jan Morforth,UK,Organic Choco Syrup,12-Apr-22,error_value,unknown
+Rafaelita Blaksland,Canada,Smooth Sliky Salty,30-Jun-22,$483 ,185.0
+Ches Bonnell,UK,Smooth Sliky Salty,07-Jun-22,error_value,unknown
+Gunar Cockshoot,Canada,Almond Choco,30-Jun-22,"$1,309 ",30.0
+Husein Augar,USA,99% Dark & Pure,21-Feb-22,"$9,534 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,289.0
+Brien Boise,InvalidCountry,Smooth Sliky Salty,28-Jun-22,$70 ,103.0
+Beverie Moffet,InvalidCountry,Baker's Choco Chips,30-Jun-22,error_value,20.0
+Barr Faughny,Australia,Smooth Sliky Salty,29-Jul-22,"$2,933 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,90.0
+Beverie Moffet,Australia,Raspberry Choco,30-Mar-22,"$6,524 ",unknown
+Beverie Moffet,InvalidCountry,Organic Choco Syrup,18-Jul-22,"$12,656 ",unknown
+Beverie Moffet,InvalidCountry,Orange Choco,10-May-22,error_value,109.0
+Beverie Moffet,InvalidCountry,Choco Coated Almonds,30-Jun-22,error_value,unknown
+Ches Bonnell,India,Caramel Stuffed Bars,15-Jun-22,"$6,839 ",56.0
+Beverie Moffet,InvalidCountry,50% Dark Bites,30-Jun-22,error_value,58.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,India,Spicy Special Slims,21-Apr-22,"$3,339 ",unknown
+Beverie Moffet,Australia,Almond Choco,30-Jun-22,error_value,unknown
+Rafaelita Blaksland,InvalidCountry,Smooth Sliky Salty,07-Feb-22,error_value,51.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$8,099 ",118.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$13,727 ",79.0
+Beverie Moffet,Australia,Smooth Sliky Salty,30-Jun-22,error_value,29.0
+Gigi Bohling,InvalidCountry,Smooth Sliky Salty,14-Jun-22,error_value,unknown
+Beverie Moffet,UK,Smooth Sliky Salty,22-Apr-22,error_value,unknown
+Marney O'Breen,New Zealand,Eclairs,30-Jun-22,"$4,914 ",unknown
+Beverie Moffet,Australia,99% Dark & Pure,26-Aug-22,"$3,087 ",128.0
+Beverie Moffet,InvalidCountry,Fruit & Nut Bars,10-Jun-22,"$9,205 ",unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,31-Jan-22,"$2,303 ",unknown
+Beverie Moffet,InvalidCountry,Manuka Honey Choco,08-Apr-22,"$1,358 ",106.0
+Beverie Moffet,Australia,Smooth Sliky Salty,07-Jun-22,error_value,68.0
+Beverie Moffet,Australia,Smooth Sliky Salty,10-Feb-22,"$8,498 ",unknown
+Beverie Moffet,Australia,50% Dark Bites,30-Jun-22,$700 ,unknown
+Beverie Moffet,InvalidCountry,Baker's Choco Chips,18-Mar-22,"$2,191 ",524.0
+Van Tuxwell,Australia,50% Dark Bites,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$4,340 ",86.0
+Van Tuxwell,Canada,Smooth Sliky Salty,19-Aug-22,"$2,282 ",unknown
+Karlen McCaffrey,Canada,70% Dark Bites,24-Jun-22,"$7,714 ",597.0
+Kelci Walkden,Canada,Fruit & Nut Bars,20-Jun-22,error_value,149.0
+Beverie Moffet,India,Smooth Sliky Salty,02-Aug-22,error_value,207.0
+Madelene Upcott,InvalidCountry,70% Dark Bites,22-Feb-22,"$13,356 ",unknown
+Jan Morforth,Canada,Smooth Sliky Salty,14-Feb-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,24-Feb-22,"$7,910 ",unknown
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,18-Mar-22,$784 ,129.0
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,error_value,252.0
+Gigi Bohling,InvalidCountry,Peanut Butter Cubes,30-Jun-22,error_value,75.0
+Wilone O'Kielt,InvalidCountry,Smooth Sliky Salty,18-Jan-22,error_value,87.0
+Beverie Moffet,India,White Choc,30-Jun-22,"$7,154 ",unknown
+Oby Sorrel,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$10,822 ",30.0
+Dotty Strutley,InvalidCountry,99% Dark & Pure,30-Jun-22,error_value,203.0
+Kelci Walkden,India,70% Dark Bites,30-Jun-22,"$3,640 ",unknown
+Beverie Moffet,India,Drinking Coco,04-Jul-22,"$7,532 ",unknown
+Brien Boise,New Zealand,Smooth Sliky Salty,06-Jun-22,error_value,unknown
+Dotty Strutley,Australia,Almond Choco,30-Jun-22,error_value,91.0
+Wilone O'Kielt,InvalidCountry,Smooth Sliky Salty,31-Jan-22,"$2,016 ",unknown
+Beverie Moffet,New Zealand,Smooth Sliky Salty,30-Jun-22,error_value,42.0
+Barr Faughny,Canada,Manuka Honey Choco,25-Aug-22,error_value,249.0
+Gigi Bohling,New Zealand,Smooth Sliky Salty,10-Jan-22,$700 ,unknown
+Beverie Moffet,InvalidCountry,Manuka Honey Choco,30-Jun-22,"$1,904 ",8.0
+Roddy Speechley,New Zealand,85% Dark Bars,30-Jun-22,error_value,unknown
+Beverie Moffet,UK,Smooth Sliky Salty,31-May-22,"$9,625 ",313.0
+Beverie Moffet,UK,Raspberry Choco,08-Apr-22,error_value,323.0
+Beverie Moffet,USA,Smooth Sliky Salty,21-Feb-22,error_value,155.0
+Andria Kimpton,Australia,Manuka Honey Choco,30-Mar-22,"$9,744 ",unknown
+Mallorie Waber,India,Smooth Sliky Salty,02-Mar-22,"$1,400 ",unknown
+Jehu Rudeforth,InvalidCountry,Orange Choco,28-Jul-22,error_value,unknown
+Kaine Padly,New Zealand,70% Dark Bites,30-Jun-22,"$7,231 ",38.0
+Curtice Advani,Australia,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,UK,Smooth Sliky Salty,17-May-22,error_value,166.0
+Beverie Moffet,Canada,Choco Coated Almonds,30-Jun-22,error_value,unknown
+Roddy Speechley,UK,Peanut Butter Cubes,17-Aug-22,"$5,691 ",unknown
+Ches Bonnell,New Zealand,Smooth Sliky Salty,04-Apr-22,error_value,49.0
+Brien Boise,India,85% Dark Bars,09-Aug-22,error_value,205.0
+Brien Boise,InvalidCountry,Organic Choco Syrup,30-Jun-22,$637 ,unknown
+Andria Kimpton,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Gigi Bohling,New Zealand,Orange Choco,16-May-22,"$8,204 ",unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,30-Jun-22,"$9,870 ",121.0
+Husein Augar,Canada,Smooth Sliky Salty,31-Jan-22,"$5,131 ",285.0
+Barr Faughny,InvalidCountry,Organic Choco Syrup,10-Mar-22,"$1,141 ",205.0
+Oby Sorrel,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$7,980 ",157.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$5,229 ",182.0
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,"$3,423 ",unknown
+Oby Sorrel,UK,Milk Bars,11-Jul-22,"$6,468 ",223.0
+Karlen McCaffrey,InvalidCountry,Smooth Sliky Salty,02-Mar-22,"$4,326 ",unknown
+Beverie Moffet,USA,Smooth Sliky Salty,04-Mar-22,"$7,154 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,23-Jun-22,error_value,unknown
+Kelci Walkden,InvalidCountry,Almond Choco,30-Jun-22,error_value,unknown
+Marney O'Breen,Canada,Orange Choco,14-Jan-22,error_value,unknown
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,29-Jul-22,error_value,24.0
+Brien Boise,InvalidCountry,Smooth Sliky Salty,13-May-22,"$5,691 ",unknown
+Barr Faughny,Canada,Smooth Sliky Salty,30-Jun-22,"$10,969 ",unknown
+Beverie Moffet,India,Smooth Sliky Salty,27-May-22,"$5,964 ",unknown
+Beverie Moffet,Australia,Drinking Coco,30-Jun-22,"$2,821 ",24.0
+Brien Boise,India,Smooth Sliky Salty,28-Jan-22,"$1,302 ",33.0
+Van Tuxwell,InvalidCountry,Eclairs,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Caramel Stuffed Bars,13-Jan-22,error_value,unknown
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,"$1,946 ",unknown
+Beverie Moffet,InvalidCountry,White Choc,29-Mar-22,"$4,291 ",1.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,03-Jun-22,"$7,196 ",unknown
+Mallorie Waber,InvalidCountry,Smooth Sliky Salty,21-Mar-22,"$1,939 ",unknown
+Beverie Moffet,InvalidCountry,Eclairs,12-Apr-22,"$10,437 ",unknown
+Rafaelita Blaksland,InvalidCountry,Raspberry Choco,19-Jan-22,error_value,unknown
+Karlen McCaffrey,UK,50% Dark Bites,06-Apr-22,"$3,647 ",310.0
+Kaine Padly,Australia,50% Dark Bites,02-Aug-22,"$8,995 ",78.0
+Beverie Moffet,InvalidCountry,Eclairs,30-Jun-22,error_value,136.0
+Beverie Moffet,India,Drinking Coco,21-Jul-22,error_value,130.0
+Van Tuxwell,InvalidCountry,Baker's Choco Chips,22-Mar-22,error_value,24.0
+Beverie Moffet,India,Peanut Butter Cubes,09-May-22,"$4,522 ",5.0
+Andria Kimpton,InvalidCountry,Baker's Choco Chips,09-Aug-22,error_value,unknown
+Madelene Upcott,Canada,Choco Coated Almonds,20-Jul-22,"$3,458 ",unknown
+Brien Boise,InvalidCountry,70% Dark Bites,14-Apr-22,"$4,641 ",413.0
+Jehu Rudeforth,InvalidCountry,White Choc,30-Jun-22,"$4,627 ",136.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,25-Apr-22,"$3,192 ",unknown
+Dotty Strutley,InvalidCountry,After Nines,17-Jan-22,$252 ,237.0
+Beverie Moffet,USA,Smooth Sliky Salty,15-Aug-22,$868 ,125.0
+Karlen McCaffrey,InvalidCountry,Fruit & Nut Bars,02-Jun-22,error_value,16.0
+Beverie Moffet,USA,Smooth Sliky Salty,30-Jun-22,error_value,135.0
+Dotty Strutley,New Zealand,Raspberry Choco,10-Feb-22,"$5,845 ",91.0
+Beverie Moffet,Canada,Smooth Sliky Salty,23-Feb-22,"$1,372 ",614.0
+Beverie Moffet,India,Organic Choco Syrup,30-Jun-22,"$8,428 ",unknown
+Camilla Castle,UK,Mint Chip Choco,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,70% Dark Bites,14-Apr-22,error_value,21.0
+Beverie Moffet,InvalidCountry,99% Dark & Pure,01-Aug-22,"$4,326 ",154.0
+Mallorie Waber,Australia,Eclairs,30-Jun-22,"$9,527 ",unknown
+Beverie Moffet,India,Smooth Sliky Salty,30-Jun-22,error_value,157.0
+Husein Augar,USA,Fruit & Nut Bars,30-Jun-22,"$1,288 ",unknown
+Kelci Walkden,InvalidCountry,Smooth Sliky Salty,30-May-22,error_value,350.0
+Beverie Moffet,USA,Smooth Sliky Salty,21-Jul-22,error_value,unknown
+Jan Morforth,InvalidCountry,Smooth Sliky Salty,02-Aug-22,error_value,468.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,15-Jun-22,"$7,231 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,05-Jul-22,"$8,981 ",unknown
+Kaine Padly,New Zealand,Smooth Sliky Salty,30-Jun-22,$7 ,518.0
+Beverie Moffet,Australia,Smooth Sliky Salty,18-Aug-22,"$1,372 ",105.0
+Jan Morforth,InvalidCountry,Smooth Sliky Salty,12-Jan-22,error_value,293.0
+Beverie Moffet,InvalidCountry,White Choc,30-Jun-22,"$7,560 ",15.0
+Jehu Rudeforth,Australia,Spicy Special Slims,30-Jun-22,error_value,384.0
+Husein Augar,InvalidCountry,Baker's Choco Chips,30-Jun-22,error_value,unknown
+Beverie Moffet,New Zealand,After Nines,07-Jul-22,"$1,099 ",unknown
+Madelene Upcott,InvalidCountry,Mint Chip Choco,11-Mar-22,"$7,413 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,239.0
+Barr Faughny,Australia,Organic Choco Syrup,07-Jan-22,"$2,303 ",unknown
+Beverie Moffet,New Zealand,Smooth Sliky Salty,12-Jan-22,"$1,141 ",unknown
+Beverie Moffet,India,Eclairs,30-Jun-22,"$10,325 ",147.0
+Beverie Moffet,InvalidCountry,Eclairs,30-Jun-22,"$2,149 ",84.0
+Gigi Bohling,InvalidCountry,85% Dark Bars,30-Jun-22,error_value,unknown
+Roddy Speechley,UK,Raspberry Choco,30-Jun-22,error_value,194.0
+Dotty Strutley,UK,Mint Chip Choco,14-Jul-22,"$2,443 ",216.0
+Barr Faughny,InvalidCountry,Drinking Coco,18-Apr-22,"$6,237 ",247.0
+Beverie Moffet,InvalidCountry,Milk Bars,14-Jun-22,"$1,736 ",79.0
+Beverie Moffet,UK,Orange Choco,15-Apr-22,"$7,315 ",237.0
+Curtice Advani,Canada,Peanut Butter Cubes,19-May-22,error_value,63.0
+Gigi Bohling,India,White Choc,30-Jun-22,"$1,393 ",172.0
+Husein Augar,Canada,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Wilone O'Kielt,India,Choco Coated Almonds,30-Jun-22,"$2,933 ",unknown
+Wilone O'Kielt,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Kaine Padly,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Dennison Crosswaite,New Zealand,Smooth Sliky Salty,30-Jun-22,$371 ,229.0
+Beverie Moffet,Canada,After Nines,13-Jan-22,"$16,702 ",198.0
+Beverie Moffet,InvalidCountry,Baker's Choco Chips,11-May-22,"$13,258 ",32.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,16-Feb-22,error_value,unknown
+Kaine Padly,UK,Caramel Stuffed Bars,30-Jun-22,error_value,67.0
+Beverie Moffet,UK,Drinking Coco,03-Feb-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,06-May-22,"$9,835 ",167.0
+Beverie Moffet,UK,Choco Coated Almonds,30-Jun-22,"$5,775 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,22-Mar-22,error_value,unknown
+Camilla Castle,Canada,Smooth Sliky Salty,17-Feb-22,"$7,770 ",54.0
+Jehu Rudeforth,UK,85% Dark Bars,07-Jul-22,error_value,64.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,181.0
+Kelci Walkden,UK,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Gigi Bohling,New Zealand,Smooth Sliky Salty,30-Jun-22,error_value,181.0
+Beverie Moffet,Australia,Smooth Sliky Salty,30-Jun-22,$721 ,unknown
+Oby Sorrel,InvalidCountry,50% Dark Bites,24-Jun-22,error_value,137.0
+Barr Faughny,InvalidCountry,Smooth Sliky Salty,05-May-22,"$7,420 ",unknown
+Rafaelita Blaksland,New Zealand,99% Dark & Pure,25-Mar-22,"$3,164 ",84.0
+Beverie Moffet,Australia,Caramel Stuffed Bars,14-Feb-22,error_value,unknown
+Curtice Advani,New Zealand,85% Dark Bars,30-Jun-22,"$5,404 ",unknown
+Beverie Moffet,New Zealand,Smooth Sliky Salty,25-Jan-22,"$3,990 ",unknown
+Ches Bonnell,InvalidCountry,85% Dark Bars,28-Jun-22,"$14,924 ",unknown
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,13-Jul-22,error_value,unknown
+Roddy Speechley,USA,Milk Bars,16-May-22,"$2,807 ",252.0
+Beverie Moffet,India,After Nines,14-Mar-22,error_value,168.0
+Beverie Moffet,USA,After Nines,15-Aug-22,"$3,738 ",261.0
+Ches Bonnell,InvalidCountry,Smooth Sliky Salty,16-Feb-22,error_value,unknown
+Beverie Moffet,UK,Manuka Honey Choco,30-Jun-22,"$8,379 ",43.0
+Beverie Moffet,Australia,Smooth Sliky Salty,27-May-22,"$9,268 ",100.0
+Beverie Moffet,InvalidCountry,Drinking Coco,14-Jun-22,error_value,98.0
+Wilone O'Kielt,India,Eclairs,25-Feb-22,"$3,549 ",76.0
+Beverie Moffet,India,Smooth Sliky Salty,30-Jun-22,error_value,262.0
+Kelci Walkden,India,99% Dark & Pure,30-Jun-22,"$2,303 ",unknown
+Beverie Moffet,Canada,Spicy Special Slims,05-Apr-22,"$13,405 ",unknown
+Madelene Upcott,Canada,Peanut Butter Cubes,05-Jul-22,"$14,763 ",113.0
+Beverie Moffet,New Zealand,Eclairs,20-Jan-22,"$12,894 ",unknown
+Ches Bonnell,New Zealand,Drinking Coco,30-Jun-22,error_value,131.0
+Curtice Advani,InvalidCountry,Drinking Coco,30-Jun-22,$455 ,unknown
+Beverie Moffet,India,Smooth Sliky Salty,16-Jun-22,error_value,254.0
+Beverie Moffet,InvalidCountry,Choco Coated Almonds,30-Jun-22,error_value,284.0
+Kaine Padly,InvalidCountry,50% Dark Bites,21-Feb-22,"$3,143 ",67.0
+Roddy Speechley,Canada,Smooth Sliky Salty,11-May-22,"$5,873 ",unknown
+Ches Bonnell,India,50% Dark Bites,15-Apr-22,error_value,unknown
+Oby Sorrel,Canada,Peanut Butter Cubes,30-Jun-22,error_value,unknown
+Oby Sorrel,UK,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,India,After Nines,30-Jun-22,error_value,109.0
+Wilone O'Kielt,Canada,Smooth Sliky Salty,02-Jun-22,"$4,991 ",unknown
+Rafaelita Blaksland,India,Mint Chip Choco,30-Jun-22,error_value,unknown
+Beverie Moffet,Canada,99% Dark & Pure,30-Jun-22,error_value,unknown
+Van Tuxwell,InvalidCountry,70% Dark Bites,30-Jun-22,error_value,104.0
+Beverie Moffet,USA,Smooth Sliky Salty,27-Jun-22,"$2,275 ",115.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,85% Dark Bars,30-Jun-22,error_value,80.0
+Oby Sorrel,India,Spicy Special Slims,08-Jun-22,"$11,137 ",unknown
+Jan Morforth,UK,Manuka Honey Choco,30-Jun-22,error_value,unknown
+Kaine Padly,Australia,After Nines,08-Apr-22,error_value,unknown
+Wilone O'Kielt,Canada,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,65.0
+Oby Sorrel,Canada,Fruit & Nut Bars,14-Jan-22,"$1,869 ",158.0
+Beverie Moffet,USA,Baker's Choco Chips,11-Aug-22,"$17,465 ",unknown
+Beverie Moffet,InvalidCountry,Almond Choco,31-May-22,"$10,143 ",unknown
+Van Tuxwell,New Zealand,50% Dark Bites,11-Jul-22,error_value,unknown
+Karlen McCaffrey,Canada,Caramel Stuffed Bars,30-Jun-22,error_value,unknown
+Madelene Upcott,Australia,Raspberry Choco,13-Jul-22,error_value,88.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,03-Aug-22,error_value,unknown
+Beverie Moffet,UK,Smooth Sliky Salty,01-Mar-22,error_value,165.0
+Beverie Moffet,New Zealand,White Choc,30-Jun-22,error_value,150.0
+Beverie Moffet,Canada,Fruit & Nut Bars,30-Jun-22,error_value,180.0
+Mallorie Waber,InvalidCountry,Smooth Sliky Salty,30-Jun-22,$819 ,unknown
+Brien Boise,InvalidCountry,Drinking Coco,27-Jan-22,"$5,754 ",133.0
+Jehu Rudeforth,InvalidCountry,Peanut Butter Cubes,14-Apr-22,$28 ,446.0
+Beverie Moffet,USA,Almond Choco,30-Jun-22,"$6,440 ",141.0
+Husein Augar,InvalidCountry,Eclairs,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Spicy Special Slims,30-Jun-22,"$2,352 ",58.0
+Oby Sorrel,Australia,Manuka Honey Choco,26-Jan-22,error_value,76.0
+Beverie Moffet,India,White Choc,04-Jul-22,"$1,813 ",296.0
+Beverie Moffet,India,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Gigi Bohling,Australia,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,401 ",unknown
+Camilla Castle,USA,Eclairs,10-Jun-22,"$4,515 ",392.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Van Tuxwell,India,After Nines,27-Jun-22,error_value,207.0
+Beverie Moffet,InvalidCountry,Orange Choco,30-Jun-22,"$4,361 ",unknown
+Jehu Rudeforth,InvalidCountry,Almond Choco,30-Aug-22,"$10,122 ",100.0
+Karlen McCaffrey,Australia,Smooth Sliky Salty,23-Aug-22,error_value,57.0
+Beverie Moffet,New Zealand,99% Dark & Pure,26-Aug-22,error_value,42.0
+Gigi Bohling,InvalidCountry,Orange Choco,09-Mar-22,$574 ,156.0
+Beverie Moffet,InvalidCountry,Drinking Coco,20-Apr-22,error_value,23.0
+Mallorie Waber,InvalidCountry,Caramel Stuffed Bars,30-Jun-22,error_value,539.0
+Husein Augar,Australia,Organic Choco Syrup,08-Feb-22,$938 ,158.0
+Brien Boise,Australia,White Choc,25-Aug-22,error_value,22.0
+Dotty Strutley,India,Smooth Sliky Salty,16-Feb-22,error_value,unknown
+Dennison Crosswaite,UK,99% Dark & Pure,30-Jun-22,error_value,27.0
+Beverie Moffet,New Zealand,50% Dark Bites,30-Jun-22,error_value,unknown
+Gigi Bohling,USA,Smooth Sliky Salty,16-Jun-22,error_value,unknown
+Beverie Moffet,InvalidCountry,Caramel Stuffed Bars,04-Mar-22,"$2,681 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$1,533 ",unknown
+Curtice Advani,New Zealand,50% Dark Bites,27-Jan-22,error_value,85.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,05-Jul-22,$994 ,118.0
+Barr Faughny,InvalidCountry,Caramel Stuffed Bars,29-Mar-22,"$3,318 ",299.0
+Mallorie Waber,InvalidCountry,Almond Choco,12-May-22,"$4,214 ",35.0
+Oby Sorrel,USA,Drinking Coco,11-Mar-22,error_value,unknown
+Brien Boise,New Zealand,Eclairs,11-Jul-22,error_value,299.0
+Gunar Cockshoot,New Zealand,Smooth Sliky Salty,01-Aug-22,"$13,062 ",62.0
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,"$12,488 ",unknown
+Curtice Advani,USA,After Nines,30-Jun-22,error_value,235.0
+Oby Sorrel,India,Smooth Sliky Salty,30-Jun-22,$49 ,unknown
+Ches Bonnell,InvalidCountry,Peanut Butter Cubes,30-Jun-22,error_value,unknown
+Beverie Moffet,Australia,Spicy Special Slims,26-Apr-22,"$11,389 ",26.0
+Jehu Rudeforth,Canada,Smooth Sliky Salty,05-Apr-22,error_value,200.0
+Beverie Moffet,Canada,Smooth Sliky Salty,30-Jun-22,error_value,264.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$2,107 ",175.0
+Marney O'Breen,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$8,603 ",352.0
+Roddy Speechley,New Zealand,99% Dark & Pure,18-Apr-22,error_value,183.0
+Oby Sorrel,New Zealand,85% Dark Bars,01-Feb-22,"$3,381 ",417.0
+Dotty Strutley,New Zealand,Orange Choco,30-Jun-22,error_value,146.0
+Beverie Moffet,InvalidCountry,Almond Choco,30-Jun-22,"$6,559 ",unknown
+Beverie Moffet,InvalidCountry,99% Dark & Pure,30-Jun-22,error_value,168.0
+Kaine Padly,UK,After Nines,21-Jan-22,"$18,697 ",unknown
+Kaine Padly,Canada,After Nines,22-Aug-22,"$5,845 ",unknown
+Beverie Moffet,UK,Drinking Coco,27-Jan-22,error_value,224.0
+Beverie Moffet,InvalidCountry,50% Dark Bites,16-Feb-22,"$10,150 ",68.0
+Dotty Strutley,USA,Smooth Sliky Salty,30-Jun-22,"$3,437 ",46.0
+Karlen McCaffrey,USA,Smooth Sliky Salty,24-Aug-22,"$4,592 ",unknown
+Oby Sorrel,USA,Spicy Special Slims,07-Feb-22,"$5,691 ",417.0
+Mallorie Waber,Australia,Smooth Sliky Salty,30-Jun-22,"$4,158 ",unknown
+Kaine Padly,Canada,Organic Choco Syrup,29-Mar-22,"$5,684 ",unknown
+Beverie Moffet,USA,Peanut Butter Cubes,30-Jun-22,$693 ,350.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,26-Apr-22,error_value,142.0
+Brien Boise,InvalidCountry,Smooth Sliky Salty,15-Jul-22,"$4,263 ",264.0
+Beverie Moffet,InvalidCountry,Organic Choco Syrup,23-Jun-22,"$1,036 ",unknown
+Dennison Crosswaite,Australia,Smooth Sliky Salty,11-Jan-22,"$13,846 ",421.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,09-Feb-22,error_value,271.0
+Beverie Moffet,UK,Almond Choco,06-Jun-22,error_value,204.0
+Beverie Moffet,UK,Smooth Sliky Salty,30-Jun-22,"$5,768 ",unknown
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,04-Jan-22,error_value,46.0
+Andria Kimpton,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$10,262 ",unknown
+Beverie Moffet,UK,Smooth Sliky Salty,02-Mar-22,"$3,864 ",unknown
+Van Tuxwell,Canada,Smooth Sliky Salty,15-Jun-22,"$4,900 ",709.0
+Beverie Moffet,Australia,Smooth Sliky Salty,14-Feb-22,"$5,250 ",47.0
+Husein Augar,UK,After Nines,05-Jul-22,"$3,507 ",380.0
+Barr Faughny,InvalidCountry,Smooth Sliky Salty,12-Jan-22,error_value,465.0
+Curtice Advani,India,Mint Chip Choco,03-Mar-22,"$8,155 ",96.0
+Jehu Rudeforth,New Zealand,Milk Bars,30-Jun-22,"$2,478 ",unknown
+Beverie Moffet,InvalidCountry,Caramel Stuffed Bars,28-Jul-22,"$2,471 ",202.0
+Beverie Moffet,InvalidCountry,Manuka Honey Choco,07-Feb-22,"$1,666 ",106.0
+Beverie Moffet,India,Orange Choco,30-May-22,error_value,421.0
+Mallorie Waber,InvalidCountry,Raspberry Choco,25-Apr-22,"$8,400 ",27.0
+Beverie Moffet,InvalidCountry,85% Dark Bars,30-Jun-22,error_value,unknown
+Beverie Moffet,Australia,Smooth Sliky Salty,30-Jun-22,error_value,60.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Dennison Crosswaite,InvalidCountry,Smooth Sliky Salty,11-Jul-22,"$2,317 ",464.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,07-Jun-22,error_value,60.0
+Jan Morforth,UK,Almond Choco,06-Jul-22,error_value,unknown
+Beverie Moffet,India,Smooth Sliky Salty,15-Jun-22,error_value,154.0
+Beverie Moffet,India,Mint Chip Choco,14-Apr-22,error_value,239.0
+Camilla Castle,InvalidCountry,Drinking Coco,08-Aug-22,error_value,163.0
+Beverie Moffet,UK,Drinking Coco,29-Mar-22,error_value,28.0
+Roddy Speechley,Australia,Organic Choco Syrup,04-Jul-22,"$3,647 ",76.0
+Beverie Moffet,India,99% Dark & Pure,16-Feb-22,error_value,96.0
+Beverie Moffet,Canada,Spicy Special Slims,02-May-22,error_value,156.0
+Van Tuxwell,InvalidCountry,Smooth Sliky Salty,21-Jul-22,"$10,500 ",106.0
+Gunar Cockshoot,InvalidCountry,Smooth Sliky Salty,18-Aug-22,error_value,unknown
+Beverie Moffet,USA,85% Dark Bars,30-Jun-22,error_value,unknown
+Beverie Moffet,UK,Peanut Butter Cubes,19-Jul-22,error_value,unknown
+Madelene Upcott,InvalidCountry,Peanut Butter Cubes,30-Jun-22,error_value,unknown
+Madelene Upcott,USA,Choco Coated Almonds,30-Jun-22,error_value,132.0
+Marney O'Breen,Canada,Peanut Butter Cubes,08-Mar-22,error_value,91.0
+Ches Bonnell,Australia,Smooth Sliky Salty,08-Apr-22,error_value,unknown
+Curtice Advani,Canada,Smooth Sliky Salty,06-May-22,$721 ,203.0
+Roddy Speechley,India,Smooth Sliky Salty,31-May-22,error_value,unknown
+Van Tuxwell,InvalidCountry,Mint Chip Choco,30-Jun-22,"$2,674 ",unknown
+Dennison Crosswaite,USA,Smooth Sliky Salty,15-Mar-22,$658 ,unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,30-Jun-22,"$1,127 ",319.0
+Gigi Bohling,USA,Smooth Sliky Salty,30-Jun-22,"$7,364 ",196.0
+Rafaelita Blaksland,Australia,White Choc,30-Jun-22,"$6,818 ",unknown
+Beverie Moffet,Canada,Smooth Sliky Salty,30-Jun-22,"$6,776 ",312.0
+Camilla Castle,New Zealand,Smooth Sliky Salty,08-Aug-22,error_value,55.0
+Beverie Moffet,Canada,Milk Bars,26-Apr-22,"$3,612 ",unknown
+Madelene Upcott,Australia,Smooth Sliky Salty,30-Jun-22,error_value,unknown
+Oby Sorrel,Canada,Smooth Sliky Salty,19-May-22,error_value,591.0
+Dennison Crosswaite,Canada,Drinking Coco,10-Jan-22,error_value,24.0
+Beverie Moffet,InvalidCountry,After Nines,04-May-22,error_value,228.0
+Roddy Speechley,Canada,White Choc,30-Jun-22,"$5,887 ",unknown
+Beverie Moffet,InvalidCountry,After Nines,30-Jun-22,error_value,unknown
+Roddy Speechley,India,Smooth Sliky Salty,30-Jun-22,error_value,173.0
+Dotty Strutley,InvalidCountry,Smooth Sliky Salty,30-Jun-22,"$6,055 ",unknown
+Oby Sorrel,InvalidCountry,Orange Choco,27-Apr-22,"$8,757 ",338.0
+Kaine Padly,Canada,Almond Choco,30-Jun-22,error_value,73.0
+Jan Morforth,InvalidCountry,Smooth Sliky Salty,11-Mar-22,$721 ,251.0
+Jehu Rudeforth,UK,Fruit & Nut Bars,30-Jun-22,error_value,229.0
+Beverie Moffet,InvalidCountry,Smooth Sliky Salty,12-May-22,error_value,unknown
+Brien Boise,InvalidCountry,Raspberry Choco,30-Jun-22,$672 ,194.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,30-Jun-22,"$12,558 ",unknown
+Beverie Moffet,India,50% Dark Bites,14-Mar-22,"$8,337 ",unknown
+Beverie Moffet,New Zealand,99% Dark & Pure,30-Jun-22,"$8,134 ",unknown
+Dennison Crosswaite,InvalidCountry,Organic Choco Syrup,28-Jan-22,"$8,491 ",75.0
+Beverie Moffet,India,Almond Choco,24-May-22,"$3,066 ",96.0
+Beverie Moffet,InvalidCountry,Peanut Butter Cubes,30-Jun-22,$301 ,205.0
+Karlen McCaffrey,InvalidCountry,Smooth Sliky Salty,17-May-22,"$4,410 ",323.0
+Beverie Moffet,USA,Smooth Sliky Salty,30-Jun-22,error_value,119.0
+Beverie Moffet,Canada,Organic Choco Syrup,26-Jul-22,$574 ,unknown
+Beverie Moffet,India,Smooth Sliky Salty,28-Jul-22,"$2,086 ",unknown
+Karlen McCaffrey,InvalidCountry,Smooth Sliky Salty,23-May-22,"$5,075 ",344.0
