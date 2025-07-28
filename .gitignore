@@ -9,6 +9,7 @@ __pycache__/
 *.env
 
 # Data directories
+data/
 uploads/
 outputs/
 datasets/
@@ -17,9 +18,17 @@ datasets/
 *.log
 logs/
 
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+db/
+
 # Temporary files
 *.tmp
+*.temp
 .DS_Store
+Thumbs.db
 
 # Virtual Environment
 venv/
